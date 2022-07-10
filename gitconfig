@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = brunoallevato@gmail.com
+	name = Bruno Allevato
